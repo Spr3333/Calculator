@@ -4,6 +4,9 @@ This is a simple calculator application built to perform basic arithmetic operat
 
 Features
 Basic Arithmetic Operations: Supports Division (÷), Multiplication (×), Addition (+), and Subtraction (-).
+
 DMAS: The calculator follows the order of operations — Division, Multiplication, Addition, and Subtraction — ensuring accurate calculations.
+
 User-Friendly Interface: Simple and intuitive design for easy interaction.
+
 Recursive Calculation: The calculator uses recursion to handle operations step-by-step, simplifying the calculation process.
